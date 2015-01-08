@@ -1,0 +1,3 @@
+[submodule ".themes/slimpress"]
+	path = .themes/slimpress
+	url = git@github.com:jeremyrea/slimpress.git
