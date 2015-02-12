@@ -5,14 +5,14 @@ date: 2015-02-08 14:50:48 +0100
 comments: true
 categories: 
 ---
-(Still gotta finish this post!!)
-Hi! Welcome to our first post on the blog. We're planning our first meet up so keep reading for the details
+Hi! We're very excited to announce our very first Ruby Habits meet up!
 
 Our first meet up will be on the 
 **26th of February 2015 at Rochuspark, Erdbergstrasse 10,** and we will meet at **6:30 PM.** 
 
 <img src="/images/rochus-park.jpg"> 
-Rochuspark is a great space, part of the 
+
+Rochuspark is a great space, part of the Konnex communities, run by Michael Pöll. We're fortunate to have given the large meeting room to hold this first meetup. We hope you like the space as much as we do!
 
 [<img src="/images/RochusParkLocation.png">](https://goo.gl/maps/nISxd)
 
