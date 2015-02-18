@@ -15,7 +15,7 @@ If you join our mailing list, we'll send you our "task" for the meet up before t
 
 [<img src="/images/newmember.png">](https://docs.google.com/forms/d/1g6SgzuwhieI1dZ3z0Y3WhtgiWzFl8j3LfzGLkFkltP8/viewform?usp=send_form)
 
-We will be posting all our working materials on our [Github page](https://github.com/RubyHabits). Feel free to follow us on social media to keep track of what we're up to!
+We will be posting all our working materials on our [Github page](https://github.com/RubyHabits). Feel free to follow us on social media to keep track of what we're up to! Don't forget to join our group on [Meetup](http://www.meetup.com/RubyHabits/).
 
 [<img src="/images/Emailicon.png">](rubyhabits@gmail.com)
 [<img src="/images/Twittericon.png">](http://www.twitter.com/rubyhabits)
