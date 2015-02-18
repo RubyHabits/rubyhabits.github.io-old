@@ -19,12 +19,12 @@ Rochuspark is a great space, part of the Konnex communities, run by Michael Pöl
 
 ###Agenda:
 
-*18:45 ~ 19:15* - Introductions
+ - Introductions
 
-*19:20 ~ 19:50* - Cool Ruby things
+ - Cool Ruby things
 
-*20:00 ~ 20:45* - Installing Ruby/ talk about ruby
+ - Installing Ruby/Short Intro to Ruby
 
-If you're planning on attending, please fill in this google form: HERE We'd love to be able to have as many participants as possible but unfortunately the space we're having the meetup in is not enormous so RSVP as well on our meetup event: HERE
+If you're planning on attending, please fill in [this google form](https://docs.google.com/forms/d/1g6SgzuwhieI1dZ3z0Y3WhtgiWzFl8j3LfzGLkFkltP8/viewform?usp=send_form). We'd love to be able to have as many participants as possible but unfortunately we have a limited space of 10-12 people, so please RSVP on our [meetup event here](http://www.meetup.com/RubyHabits/). If you cannot make it, please change your RSVP to make room for someone else.
 
-One thing we'd like to say - We have a limited space of 10-12 people that we can support at a time, so please make sure you can make it before RSVP'ing! :-)
+>We look forward to seeing you there!
