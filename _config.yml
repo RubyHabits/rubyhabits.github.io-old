@@ -5,9 +5,9 @@
 url: http://rubyhabits.github.io
 title: RubyHabits
 subtitle: Just as every learner is different, every ruby has its habit.
-author: Pilar Andrea Huidobro
+author: Pilar & Ramón Huidobro
 simple_search: https://www.google.com/search
-description:
+description: Fun loving coding study group. We meet every 2 Wednesdays at Sektor5!
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -70,7 +70,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: rubyhabits
 twitter_tweet_button: true
 
 # Google +1
