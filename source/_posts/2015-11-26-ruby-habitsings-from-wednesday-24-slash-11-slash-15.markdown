@@ -13,7 +13,7 @@ Hello! We had a cozy meetup last night and learned some neat pointers. Below is 
 
 One interesting caveat that came from this, however, is that of 32 vs. 64 bit architectures. Stefan had prepared a 32 bit one to be as cross-compatible as possible. However, it seems that the 32 bit one won't boot from a recent Macbook Pro. Seems we need both!
 
-Moving on, we made some progress with [Where2Help](https://github.com/where2help/where2help). [Max](https://twitter.com/klappradla) added a really need `table-clickable` property to the `admin` view.
+Moving on, we made some progress with [Where2Help](https://github.com/where2help/where2help). [Max](https://twitter.com/klappradla) added a really neat `table-clickable` property to the `admin` view.
 
 Finally, some minor tips and recommendations:
 
