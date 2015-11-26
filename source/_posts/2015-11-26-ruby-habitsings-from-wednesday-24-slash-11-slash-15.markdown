@@ -9,7 +9,7 @@ categories:
 
 Hello! We had a cozy meetup last night and learned some neat pointers. Below is a summary of what we got up to:
 
-[Stefan](https://twitter.com/informatom) brought along a special little USB stick as an idea for [Rubystarters](https://github.com/RubyStarters). What's cool about it is that it's meant to be a little [Ubuntu MATE](https://ubuntu-mate.org/) environment with Ruby, Rails and pals all set up from the get-go. He proposed that having an ISO that you can boot from is a simple way to ensure that everyone has a stable and equal environment. You can also pick a theme in Ubuntu MATE to match what you're used to. This is a really cool idea!
+[Stefan](https://twitter.com/informatom) brought along a special little USB stick as an idea for [RubyStarters](https://github.com/RubyStarters). What's cool about it is that it's meant to be a little [Ubuntu MATE](https://ubuntu-mate.org/) environment with Ruby, Rails and pals all set up from the get-go. He proposed that having an ISO that you can boot from is a simple way to ensure that everyone has a stable and equal environment. You can also pick a theme in Ubuntu MATE to match what you're used to. This is a really cool idea!
 
 One interesting caveat he and [Laura](https://twitter.com/alicetragedy) found, however, is that of 32 vs. 64 bit architectures. Stefan had prepared a 32 bit one to be as cross-compatible as possible. However, it seems that the 32 bit one won't boot from a recent Macbook Pro. Seems we need both!
 
