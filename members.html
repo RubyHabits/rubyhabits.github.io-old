@@ -1,0 +1,40 @@
+---
+title: Members
+layout: default
+---
+
+<p>
+ Join us. <a href="https://github.com/rubyhabits.github.io" title="Add yourself to the Ruby Habits Members Directory - free; no database required - just some YAML ;-)">Become a Ruby Habits member!</a>
+</p>
+
+
+<table>
+{% for member in site.data.members %}
+
+ <tr id="{{member.github}}">
+   <td>
+     {% avatar user=member.github size=60 %}
+   </td>
+   <td>
+    <div style="padding-left: 10px;">
+     <div style="font-size: 140%; font-weight: bold;">{{ member.name }}</div>
+     <div style="font-size: 70%">
+       {% if member.github %}
+          <a href="http://github.com/{{member.github}}">Github</a> &nbsp;&nbsp;
+       {% endif %}
+
+       {% if member.twitter %}
+          Twitter: <a href="http://twitter.com/{{member.twitter}}">@{{member.twitter}}</a> &nbsp;&nbsp;
+       {% endif %}
+
+       {% if member.web %}
+          <a href="http://{{member.web}}">Website</a>
+       {% endif %}
+     </div>
+    </div>
+   </td>
+ </tr>
+
+ {% endfor %}
+
+</table>
