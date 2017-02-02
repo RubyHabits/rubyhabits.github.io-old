@@ -1,2 +1,6 @@
 theme: jekyll-theme-tactile
 description: Just as every learner is different, every ruby has its habit.
+
+gems:
+  - jekyll-avatar
+
