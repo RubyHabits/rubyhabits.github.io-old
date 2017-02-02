@@ -1,9 +1,9 @@
 <div>
 <!-- todo: add anchor for member in link to members ??? - why? why not?? -->
 {% for member in site.data.members %}
-  <span title="{{ member.name }}">
+  <a href="http://rubyhabits.github.io/members" title="{{ member.name }}">
     {% avatar user=member.github size=50 %}
-  </span>
+  </a>
 {% endfor %}
 
   &nbsp;&nbsp;
