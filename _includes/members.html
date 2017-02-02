@@ -1,0 +1,13 @@
+<div>
+<!-- todo: add anchor for member in link to members ??? - why? why not?? -->
+{% for member in site.data.members %}
+  <span title="{{ member.name }}">
+    {% avatar user=member.github size=50 %}
+  </span>
+{% endfor %}
+
+  &nbsp;&nbsp;
+  <span style="font-size: 150%; font-weight: bold;">
+    <a href="https://github.com/rubyhabits/rubyhabits.github.io" title="Add yourself to the RubyHabits Members Directory - free; no database required - just some YAML ;-)">Join us!</a>
+  </span>
+</div>
