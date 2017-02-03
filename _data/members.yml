@@ -3,20 +3,23 @@
 #
 #   Add Yourself!
 
-- name:    Pilar Huidobro
-  github:  althaire
-  twitter: codecuddles
-  web:     althaire.github.io
+- name:     Pilar Huidobro
+  github:   althaire
+  twitter:  codecuddles
+  web:      althaire.github.io
 
-- name:    Ramón Huidobro
-  github:  ramonh
-  twitter: SenorHuidobro
-  web:     ramonhuidobro.com
+- name:     Ramón Huidobro
+  github:   ramonh
+  twitter:  SenorHuidobro
+  web:      ramonhuidobro.com
 
-- name:    Gerald Bauer
-  github:  geraldb
+- name:     Gerald Bauer
+  github:   geraldb
+  rubygems: geraldbauer
 
-- name:    Stefan Haslinger
-  github:  haslinger
-  twitter: informatom
-  web:     stefan-haslinger.at
+- name:     Stefan Haslinger
+  github:   haslinger
+  twitter:  informatom
+  rubygems: informatom
+  web:      stefan-haslinger.at
+  
