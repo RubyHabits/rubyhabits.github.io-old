@@ -10,11 +10,9 @@ Our next meetups are:
 
 We'll meet at **18:30** at Wikimedia Austria's office:
 
-Stolzenthalergasse 7/1, 
+Stolzenthalergasse 7/1, 1080 Wien
 
-1080 Wien
-
-Prerequisites? We have no none! Just bring your laptop and your desire to learn.
+Prerequisites? There are none! Just bring your laptop and your desire to learn.
 
 Please get in touch with us for a location!
 
