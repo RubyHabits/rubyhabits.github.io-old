@@ -4,9 +4,13 @@ We're a fun-loving study group with a desire to learn. It's not only Ruby relate
 
 Our next meetups are:
 
-- November 8th
 - November 22nd
 - December 6th
+- December 20th
+
+We'll meet at **18:30** at Wikimedia Austria's office:
+Stolzenthalergasse 7/1, 
+1080 Wien
 
 Prerequisites? We have no none! Just bring your laptop and your desire to learn.
 
